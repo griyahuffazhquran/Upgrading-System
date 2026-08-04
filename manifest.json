@@ -1,0 +1,17 @@
+{
+  "name": "GHQ Upgrading System",
+  "short_name": "GHQ System",
+  "description": "Aplikasi Upgrading Guru Tahfizh & Monitoring Setoran Griya Huffazh Quran",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#059669",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
